@@ -7,3 +7,5 @@ __pycache__/
 gdrive-user-credentials.json
 *credentials*.json
 .env
+/models
+/metrics.json
